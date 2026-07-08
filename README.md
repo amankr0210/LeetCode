@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amankr0210/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amankr0210/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankr0210/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amankr0210/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/amankr0210/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Matrix
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/amankr0210/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Depth-First Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 <!---LeetCode Topics End-->
