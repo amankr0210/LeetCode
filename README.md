@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amankr0210/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amankr0210/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankr0210/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Hash Table
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amankr0210/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/amankr0210/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Matrix
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/amankr0210/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
