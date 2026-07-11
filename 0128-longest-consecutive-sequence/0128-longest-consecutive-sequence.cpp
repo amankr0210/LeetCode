@@ -3,22 +3,22 @@ public:
     int longestConsecutive(vector<int>& nums) {
         unordered_set<int> st(nums.begin(), nums.end());
 
-        int longest = 0;
+        int ans = 0;
 
         for (int num : st) {
-            if (!st.count(num - 1)) {
+            if (st.find(num - 1) == st.end()) {
                 int curr = num;
                 int len = 1;
 
-                while (st.count(curr + 1)) {
+                while (st.find(curr + 1) != st.end()) {
                     curr++;
                     len++;
                 }
 
-                longest = max(longest, len);
+                ans = max(ans, len);
             }
         }
 
-        return longest;
+        return ans;
     }
 };
