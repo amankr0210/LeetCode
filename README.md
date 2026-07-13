@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amankr0210/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/amankr0210/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amankr0210/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/amankr0210/LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/amankr0210/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/amankr0210/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/amankr0210/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amankr0210/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/amankr0210/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/amankr0210/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amankr0210/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/amankr0210/LeetCode/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
