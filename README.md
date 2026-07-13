@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amankr0210/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/amankr0210/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/amankr0210/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/amankr0210/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Matrix
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/amankr0210/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/amankr0210/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/amankr0210/LeetCode/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/amankr0210/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/amankr0210/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/amankr0210/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
