@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankr0210/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/amankr0210/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/amankr0210/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/amankr0210/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/amankr0210/LeetCode/tree/master/0493-reverse-pairs) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amankr0210/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankr0210/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/amankr0210/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/amankr0210/LeetCode/tree/master/0322-coin-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/amankr0210/LeetCode/tree/master/0322-coin-change) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Counting
 |  |
