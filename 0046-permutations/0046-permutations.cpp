@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> ans;
 
-    void solve(int index, vector<int>& nums) {
+    void backtrack(vector<int>& nums, int index) {
         if (index == nums.size()) {
             ans.push_back(nums);
             return;
@@ -10,13 +10,13 @@ public:
 
         for (int i = index; i < nums.size(); i++) {
             swap(nums[index], nums[i]);
-            solve(index + 1, nums);
-            swap(nums[index], nums[i]);
+            backtrack(nums, index + 1);
+            swap(nums[index], nums[i]); // Backtrack
         }
     }
 
     vector<vector<int>> permute(vector<int>& nums) {
-        solve(0, nums);
+        backtrack(nums, 0);
         return ans;
     }
 };
