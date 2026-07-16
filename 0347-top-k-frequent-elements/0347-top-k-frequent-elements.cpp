@@ -1,23 +1,23 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        unordered_map<int, int> freq;
+        unordered_map<int, int> mp;
 
         for (int num : nums)
-            freq[num]++;
+            mp[num]++;
 
         vector<vector<int>> bucket(nums.size() + 1);
 
-        for (auto &it : freq)
+        for (auto &it : mp)
             bucket[it.second].push_back(it.first);
 
         vector<int> ans;
 
-        for (int i = nums.size(); i >= 0 && ans.size() < k; i--) {
+        for (int i = nums.size(); i >= 0 && k > 0; i--) {
             for (int num : bucket[i]) {
                 ans.push_back(num);
-                if (ans.size() == k)
-                    break;
+                if (--k == 0)
+                    return ans;
             }
         }
 
