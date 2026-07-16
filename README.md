@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amankr0210/LeetCode/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/amankr0210/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/amankr0210/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/amankr0210/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/amankr0210/LeetCode/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/amankr0210/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
