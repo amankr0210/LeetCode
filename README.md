@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/amankr0210/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/amankr0210/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/amankr0210/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0460-lfu-cache](https://github.com/amankr0210/LeetCode/tree/master/0460-lfu-cache) |
 | [1036-escape-a-large-maze](https://github.com/amankr0210/LeetCode/tree/master/1036-escape-a-large-maze) |
 ## Matrix
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amankr0210/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/amankr0210/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amankr0210/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0460-lfu-cache](https://github.com/amankr0210/LeetCode/tree/master/0460-lfu-cache) |
 ## Greedy
 |  |
 | ------- |
@@ -193,8 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/amankr0210/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/amankr0210/LeetCode/tree/master/0460-lfu-cache) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/amankr0210/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/amankr0210/LeetCode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
