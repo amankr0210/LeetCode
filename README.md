@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amankr0210/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/amankr0210/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/amankr0210/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amankr0210/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amankr0210/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/amankr0210/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/amankr0210/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amankr0210/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amankr0210/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/amankr0210/LeetCode/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/amankr0210/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
