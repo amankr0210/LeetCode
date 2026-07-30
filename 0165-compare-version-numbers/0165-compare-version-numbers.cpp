@@ -5,20 +5,20 @@ public:
         int n = version1.size(), m = version2.size();
 
         while (i < n || j < m) {
-            long long x = 0, y = 0;
+            int num1 = 0, num2 = 0;
 
             while (i < n && version1[i] != '.') {
-                x = x * 10 + (version1[i] - '0');
+                num1 = num1 * 10 + (version1[i] - '0');
                 i++;
             }
 
             while (j < m && version2[j] != '.') {
-                y = y * 10 + (version2[j] - '0');
+                num2 = num2 * 10 + (version2[j] - '0');
                 j++;
             }
 
-            if (x < y) return -1;
-            if (x > y) return 1;
+            if (num1 < num2) return -1;
+            if (num1 > num2) return 1;
 
             i++;
             j++;
