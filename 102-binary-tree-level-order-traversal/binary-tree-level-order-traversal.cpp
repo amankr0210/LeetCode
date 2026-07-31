@@ -8,14 +8,14 @@ public:
         q.push(root);
 
         while (!q.empty()) {
-            int size = q.size();
-            vector<int> level;
+            int n = q.size();
+            ans.push_back({});
 
-            while (size--) {
+            while (n--) {
                 TreeNode* node = q.front();
                 q.pop();
 
-                level.push_back(node->val);
+                ans.back().push_back(node->val);
 
                 if (node->left)
                     q.push(node->left);
@@ -23,8 +23,6 @@ public:
                 if (node->right)
                     q.push(node->right);
             }
-
-            ans.push_back(level);
         }
 
         return ans;
