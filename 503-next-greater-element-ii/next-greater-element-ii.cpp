@@ -6,15 +6,15 @@ public:
         vector<int> st;
 
         for (int i = 2 * n - 1; i >= 0; --i) {
-            int idx = i % n;
+            int x = nums[i % n];
 
-            while (!st.empty() && st.back() <= nums[idx])
+            while (!st.empty() && st.back() <= x)
                 st.pop_back();
 
             if (i < n && !st.empty())
-                ans[idx] = st.back();
+                ans[i] = st.back();
 
-            st.push_back(nums[idx]);
+            st.push_back(x);
         }
 
         return ans;
