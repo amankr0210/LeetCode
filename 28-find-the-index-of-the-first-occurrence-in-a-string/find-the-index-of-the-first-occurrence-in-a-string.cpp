@@ -1,35 +1,58 @@
 class Solution {
-public:
-    int strStr(string haystack, string needle) {
-        if (needle.empty()) return 0;
+    private:
+    void computeLPS(string& needle, vector<int>& lps) {
+        int m = needle.length();
+        int len = 0;
+        lps[0] = 0;
+        int i = 1;
 
-        int n = haystack.size(), m = needle.size();
-        vector<int> lps(m, 0);
-
-        for (int i = 1, len = 0; i < m; ) {
+        while (i < m) {
             if (needle[i] == needle[len]) {
-                lps[i++] = ++len;
-            } else if (len) {
-                len = lps[len - 1];
+                len++;
+                lps[i] = len;
+                i++;
             } else {
-                lps[i++] = 0;
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
+                }
             }
         }
+    }
 
-        for (int i = 0, j = 0; i < n; ) {
+    public:
+    int strStr(string haystack, string needle) {
+        int n = haystack.length();
+        int m = needle.length();
+
+        if (m == 0) return 0;
+        if (n < m) return -1;
+
+        vector<int> lps(m, 0);
+        computeLPS(needle, lps);
+
+        int i = 0; 
+        int j = 0; 
+
+        while (i < n) {
             if (haystack[i] == needle[j]) {
                 i++;
                 j++;
+            }
 
-                if (j == m)
-                    return i - j;
-            } else if (j) {
-                j = lps[j - 1];
-            } else {
-                i++;
+            if (j == m) {
+                return i - j; 
+            } else if (i < n && haystack[i] != needle[j]) {
+                if (j != 0) {
+                    j = lps[j - 1];
+                } else {
+                    i++;
+                }
             }
         }
 
-        return -1;
+        return -1; 
     }
 };
